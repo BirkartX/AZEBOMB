@@ -1,3 +1,11 @@
+BAŞLAMAQ UCUN python bomb.py yazın
+
+
+
+
+
+
+
 🇦🇿## ⚠️ Məsuliyyətdən İmtina (Disclaimer)
 
 Bu alətlə (script) bağlı hər hansı bir istifadə zamanı yaranacaq hüquqi və ya maddi məsuliyyət tamamilə **istifadəçinin özünə məxsusdur**. 
